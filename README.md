@@ -1,7 +1,5 @@
 # generador-de-edificios
-Genera edificios en voxel
-
-Python code to proceduraly generate voxel cities.
+Python code to procedurally generate voxel cities.
 
 It needs [py-vox](https://github.com/gromgull/py-vox-io) to export to .vox 
 You can render .vox files with [MagicaVoxel](https://ephtracy.github.io/).
@@ -16,7 +14,7 @@ You can modify parameters like number of buildings, size of map (up to 126), hei
 
 # Examples
 
-!(https://github.com/Brukoslav/generador-de-edificios/blob/master/ejemplos/ciudad01.png "Ejemplo 1")
+!(https://raw.githubusercontent.com/Brukoslav/generador-de-edificios/master/ejemplos/ciudad01.png "Ejemplo 1")
 ```python
 L = 120	# Tamaño / city size 
 N = 200 # Número de casas / building size
@@ -31,7 +29,7 @@ bioma = 2 		#0: city, 1 desert, 2 grass
 
 
 
-!(https://github.com/Brukoslav/generador-de-edificios/blob/master/ejemplos/ciudad02.png "Ejemplo 2")
+!(https://raw.githubusercontent.com/Brukoslav/generador-de-edificios/master/ejemplos/ciudad02.png "Ejemplo 2")
 ```python
 L = 120	# Tamaño / city size 
 N = 200 # Número de casas / building size
@@ -44,7 +42,7 @@ valor = [70,100]	#0: casas oscuras / dark colored houses. 100, casas claras / li
 bioma = 0 		#0: city, 1 desert, 2 grass
 ```
 
-!(https://github.com/Brukoslav/generador-de-edificios/blob/master/ejemplos/ciudad03.png "Ejemplo 3")
+!(https://raw.githubusercontent.com/Brukoslav/generador-de-edificios/master/ejemplos/ciudad03.png "Ejemplo 3")
 ```python
 L = 120	# Tamaño / city size 
 N = 20 # Número de casas / building size
@@ -57,7 +55,7 @@ valor = [80,100]	#0: casas oscuras / dark colored houses. 100, casas claras / li
 bioma = 1 		#0: city, 1 desert, 2 grass
 ```
 
-!(https://github.com/Brukoslav/generador-de-edificios/blob/master/ejemplos/ciudad04.png "Ejemplo 4")
+!(https://raw.githubusercontent.com/Brukoslav/generador-de-edificios/master/ejemplos/ciudad04.png "Ejemplo 4")
 ```python
 L = 120	# Tamaño / city size 
 N = 400 # Número de casas / building size
