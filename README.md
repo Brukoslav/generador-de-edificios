@@ -12,7 +12,7 @@ You can modify parameters like number of buildings, size of map (up to 126), hei
 
 # Examples
 
-## Ejemplo 1
+### Ejemplo 1
 ![ejemplo 1](/ejemplos/ciudad01.png)
 ```python
 L = 120	# Tamaño / city size 
@@ -27,7 +27,7 @@ bioma = 2 		#0: city, 1 desert, 2 grass
 ```
 
 
-## Ejemplo 2
+### Ejemplo 2
 ![ejemplo 2](/ejemplos/ciudad02.png)
 ```python
 L = 120	# Tamaño / city size 
@@ -41,7 +41,7 @@ valor = [70,100]	#0: casas oscuras / dark colored houses. 100, casas claras / li
 bioma = 0 		#0: city, 1 desert, 2 grass
 ```
 
-## Ejemplo 3
+### Ejemplo 3
 ![ejemplo 3](/ejemplos/ciudad03.png)
 ```python
 L = 120	# Tamaño / city size 
@@ -55,7 +55,7 @@ valor = [80,100]	#0: casas oscuras / dark colored houses. 100, casas claras / li
 bioma = 1 		#0: city, 1 desert, 2 grass
 ```
 
-## Ejemplo 4
+### Ejemplo 4
 ![ejemplo 4](/ejemplos/ciudad04.png)
 ```python
 L = 120	# Tamaño / city size 
